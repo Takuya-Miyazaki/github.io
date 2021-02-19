@@ -1,5 +1,3 @@
-# Repository for change  `Takuya-Miyazaki/github.io`
+# Repository for change  
 
-## Overview
-
-- Create for migration
+- `Takuya-Miyazaki/github.io`
