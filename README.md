@@ -1,15 +1,14 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/Takuya-Miyazaki/github.io/edit/main/README.md.svg)](https://pkg.go.dev/github.com/Takuya-Miyazaki/github.io/edit/main/README.md)
-<img src="https://img.shields.io/badge/license-Apache--2.0-3474B62">
-<img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
-<img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat">
-
+<a href="https://www.apache.org/licenses/LICENSE-2.0/"><img src="https://img.shields.io/badge/license-Apache--2.0-3474B62">
+<a href="https://developer.apple.com/jp/xcode/"><img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
+<a href="https://atom.io/"><img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat">
 <br />
 
 # A few parts of this project are not in the public domain
   
-- Projects and repositories are primarily used for machine learning.
+- Projects and repositories are primarily used for machine learning
  
-- Licenses vary by project.    
+- Licenses vary by project   
 
 <br />
 
@@ -31,10 +30,10 @@
 "AWS" redirects here. For other uses, see?
 
 * I need to buy
-- new shoes
-- a coat
-- `AWS`
-- 
+  * new shoes
+  * a coat
+  * `AWS`
+
 <br />
 
 > See the official: [AWS website](https://aws.amazon.com/jp/getting-started/) for an introduction to `AWS`.
@@ -55,13 +54,12 @@
 
 <br />
 
-## Full license text for the MIT licensed files:
+## Full license text for the `MIT` licensed files
 
 <br />
 
 <p align="center">
-<a href="The MIT License | Open Source Initiative">
-<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Licenses associated with use - MIT license" /></a></p>
+<a href="https://opensource.org/licenses/MIT/"></a></p>
 
 <br />
 
