@@ -88,3 +88,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 <br />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Takuya-Miyazaki&show_icons=true&theme=radical)
+
+
+<br / >
